@@ -34,15 +34,12 @@
 ### Know what / when to document
 - Not _everything_ needs to be documented
   - Examples of what not to document
-    - 
-    -
-    -
+    - Descriptions of a UI functions as standalone content
+    - FAQs (https://content-guide.18f.gov/structure-the-content/#dont-use-faqs)
   - Examples of what to document
-    -
-    -
-    -
+    - Typical workflows (how to install, normal operations, etc)
+
 - Understand why you documenting something    
-- Don't create FAQs (https://content-guide.18f.gov/structure-the-content/#dont-use-faqs)
 
 ## Publishing Documentation
 
