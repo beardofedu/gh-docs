@@ -27,6 +27,23 @@
 - Open source repository? Include how to contribute instructions
 - Focus on consistent phrasing and making things easy to find
 
+### Consider the Audience
+- Keep content for specific end-users grouped
+- Don't assume that your audience comes with any knowledge
+
+### Know what / when to document
+- Not _everything_ needs to be documented
+  - Examples of what not to document
+    - 
+    -
+    -
+  - Examples of what to document
+    -
+    -
+    -
+- Understand why you documenting something    
+- Don't create FAQs (https://content-guide.18f.gov/structure-the-content/#dont-use-faqs)
+
 ## Publishing Documentation
 
 - GitHub Pages 
@@ -39,12 +56,3 @@
    - Identify documentation requirements and create issues with "beginner friendly" or "good first issue" labels
      - Q for Eric during the webcast: How many issues with a "good first issue" label do you think gets resolved by a new contributor to the Read the Docs repository?
      - Q for Eric during the webcast: How do you encourage newcomers to the Read the Docs repository to contribute?
-
-
-### To Add
-- Consider audiences
-- Separate content for different audiences (end user v dev / api docs)
-- do not assume any of those audiences come with nay knowledge
-- know when to and when not to document something
-  - understand _why_ you are documenting something
-- don't write faqs: https://content-guide.18f.gov/structure-the-content/#dont-use-faqs
