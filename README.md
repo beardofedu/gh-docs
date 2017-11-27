@@ -6,12 +6,13 @@
 
 ## Why Document
 
+- Ever been frustrated with trying to use a new tool or mess with new technology, don't let your project be the next end-user frustration. 
 - Personally, if I begin using a new application or framework and I can't find documentation to either get started or utilize the functionality, I move on to other options.
 
 ## Why use GitHub for Documentation
 
 - I came from a world where I had 6 versions of the same Word file with -FINAL, -FINAL-For-Real, -FINAL-DATE, and FINAL-DATE-NO-REALLY for almost every project
-- Sharing the documentation process 
+- Sharing the documentation process with project maintainers and potentially project contributors
 
 ## Looking at Documentation
 
