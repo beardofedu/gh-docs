@@ -19,7 +19,7 @@
 
 ## Looking at Documentation
 
-- Read the Docs repo: https://github.com/rtfd/readthedocs.org
+- Read the Docs repo: https://github.com/rtfd/readthedocs.org   https://github.com/rtfd/readthedocs.org/tree/master/docs
 - Read the Docs documentation: https://docs.readthedocs.io/en/latest/getting_started.html
 
 - Q for Eric during webcast: Being involved with Read and Write the Docs, I would imagine you have seen your fair share of documentation, what do you think are your top 3 dos and 3 donts when it comes to documents?
