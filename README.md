@@ -8,6 +8,7 @@
 
 - Ever been frustrated with trying to use a new tool or mess with new technology, don't let your project be the next end-user frustration. 
 - Personally, if I begin using a new application or framework and I can't find documentation to either get started or utilize the functionality, I move on to other options.
+- Hard to collaborate on a project if you don't know what it does / how it can help you, leading to minimal interest in helping a project grow and evolve
 - Q for Eric, as the founder of Read | Write the Docs, what made you so passionate about documentation for projects? 
 
 ## Why use GitHub for Documentation
