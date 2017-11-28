@@ -15,6 +15,7 @@
 
 - I came from a world where I had 6 versions of the same Word file with -FINAL, -FINAL-For-Real, -FINAL-DATE, and FINAL-DATE-NO-REALLY for almost every project
 - Sharing the documentation process with project maintainers and potentially project contributors
+- https://github.com/github/training-kit/pull/603 <- for display of communication from team
 
 ## Looking at Documentation
 
