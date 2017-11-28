@@ -15,7 +15,8 @@
 
 - I came from a world where I had 6 versions of the same Word file with -FINAL, -FINAL-For-Real, -FINAL-DATE, and FINAL-DATE-NO-REALLY for almost every project
 - Sharing the documentation process with project maintainers and potentially project contributors
-- https://github.com/github/training-kit/pull/603 <- for display of communication from team
+- Remove the -final file names and create snapshots of your changes in commits (slide 4)
+- Increase visibility of your changes and get input from other contributors asynchronously during the creation process (slide 5) 
 
 ## Looking at Documentation
 
