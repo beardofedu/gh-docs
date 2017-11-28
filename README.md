@@ -61,11 +61,6 @@
 - Understand why you are documenting something  
   - Creating content just to create content probably isn't helpful for your reader. Identify what problem the documentation is going to address. 
 
-## Publishing Documentation
-
-- GitHub Pages 
-- Read the Docs 
-  - Eric: if you could provide a brief description of the process of getting documentation published on the RtDs platform here that would be awesome
 
 ## How to get community help with documentation?
 
@@ -74,6 +69,13 @@
    - First open source project (before I really knew what open source was) I worked on was Rawr and I worked on documentation for the project
      - Q for Eric during the webcast: How many issues with a "good first issue" label do you think gets resolved by a new contributor to the Read the Docs repository?
      - Q for Eric during the webcast: How do you encourage newcomers to the Read the Docs repository to contribute?
+
+## Publishing Documentation
+
+- GitHub Pages 
+- Read the Docs 
+  - Eric: if you could provide a brief description of the process of getting documentation published on the RtDs platform here that would be awesome
+
 
 ## Where to go now
 
