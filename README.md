@@ -70,6 +70,7 @@
 
 - Not every open source contributor is ready to provide contributions to the code of your application. 
    - Identify documentation requirements and create issues with "beginner friendly" or "good first issue" labels
+   - First open source project (before I really knew what open source was) I worked on was Rawr and I worked on documentation for the project
      - Q for Eric during the webcast: How many issues with a "good first issue" label do you think gets resolved by a new contributor to the Read the Docs repository?
      - Q for Eric during the webcast: How do you encourage newcomers to the Read the Docs repository to contribute?
 
