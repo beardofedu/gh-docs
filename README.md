@@ -68,3 +68,8 @@
    - Identify documentation requirements and create issues with "beginner friendly" or "good first issue" labels
      - Q for Eric during the webcast: How many issues with a "good first issue" label do you think gets resolved by a new contributor to the Read the Docs repository?
      - Q for Eric during the webcast: How do you encourage newcomers to the Read the Docs repository to contribute?
+
+## Where to go now
+
+- Write the Docs Slack: http://www.writethedocs.org/slack/
+- Write the Docs Getting Started guide: http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
