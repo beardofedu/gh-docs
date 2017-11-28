@@ -51,6 +51,7 @@
 - Not _everything_ needs to be documented
   - Examples of what not to document
     - Descriptions of a UI functions as standalone content
+      - Previously I made entire pages of field and button descriptions ... how many times do you need to define the Save button?
     - FAQs (https://content-guide.18f.gov/structure-the-content/#dont-use-faqs)
 - Q for Eric: What are your thoughts on FAQ pages for projects? 
   - Examples of what to document
